@@ -16,6 +16,7 @@
 
 ## IMPORTANT NOTICE - <u>Masks are required in this class</u>
 * Please make sure you are wearing a face mask fully covering both mouth and nose _before_ you enter the classroom and keep it in place _at all times_.
+
 * Make sure you have a "properly-fitting, high-quality mask (preferably a surgical mask, KN95/KF94, N95, or [EHRS-recommended Aries mask](https://ehrs.upenn.edu/covid-19/universal-mask-and-cloth-face-covering-precautions) as opposed to a single layer cloth mask)." (UPenn Public Health Guidance).
 <br/><br/>
 
@@ -40,12 +41,26 @@ The course serves as an introduction to and overview of courses within the Data 
 
 
 ## Assessment
+* Quizes (20%)
+  * Most weeks there will be a short quiz related to the lecture and readings for the week. The quiz will be available in Canvas.
 
-
+* Short paper [1500-2000] (20%)
+  * A reflection/discussion paper focused on an data related issue. The paper should be written in Markdown.
+  
 * Lab Assignments (30%)
+  * Building on the material covered in the weekly lab sessions, which focus on gaining some practical skills working with in Python and R, these assignments will contain questions designed to help you practice. The assignments will be available and submitted within JupyterHub.
 
 * Data project (30%)
-
+  * The project should make use of the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor. 
+  * The aim of the project is to work through the steps in a typical data science project. The steps include:
+	* Develop a focused research question and some testable hypotheses
+	* Acquire, clean and organize relevant data
+	* Carry exploratory data analysis (and visualization)
+	* Develop data analysis to answer research questions and hypotheses
+	* Interpret patterns
+	* Communicate findings in an engaging data story
+	
+  * More details of the kinds of projects that would be appropriate and manageable will be discussed as the class progresses.
 
 ## Textbooks and recommended readings
 
@@ -55,8 +70,18 @@ The course serves as an introduction to and overview of courses within the Data 
   1. _Data Literacy Fundamentals: Understanding the Power & Value of Data_(Abbreviated as `DLF` on schedule)
   2. _Learning to See Data: How to Interpret the Visual Language of Charts_(Abbreviates as `LSD` on schedule)
 
+### References for Python and R coding
 
-Cathy O'Neil, _ Weapons of Math Destruction_
+1. McGregor, S.E. (2021) *Practical Python Data Wrangling and Data Quality*. O'Reilly Media. (This text is available through the Penn library [](https://learning.oreilly.com/library/view/practical-python-data/9781492091493/))
+   * We will use certain sections of this book in the lab sessions for learning how to work with data using Python. The whole book is a useful reference and introduction.
+   * This book is referenced as `PPDW` in the schedule below.
+
+2. Wickham, H. and Grolemund. G. (2017) *R for Data Science*. O'Reilly Media.
+(Available online: https://r4ds.had.co.nz/index.html)
+    * We will use parts of this book in the lab sessions for learning to use R. The book focuses on using `ggplot` for visualization and the `tidyverse` libraries for data analysis, just as we will.
+    * There is more advanced material in the book that we won't be able to cover but it is well worth spending some time trying some of the exercises throughout the chapters.
+    * This book is referenced as `RDS` in the schedule below.<br/><br/>
+
 
 ### Recommended
 
@@ -64,12 +89,14 @@ Cathy O'Neil, _ Weapons of Math Destruction_
 
 * Harford, T. (2021) _The Data Detective: Ten Easy Rules to Make Sense of Statistics_. Riverhead Books
 
-* Salganik, M.J. (2017) _Bit by Bit: Social Research in the Digital Age_. Princeton, NJ: Princeton University Press. Available online: https://www.bitbybitbook.com/en/1st-ed/preface/
+* O'Neil, C. (2017). _Weapons of math destruction_. Penguin Books.
+
+* Williams, S. (2020). _Data Action: Using Data for Public Good_. MIT Press.
 
 
 ## Note about learning programming
 
-One of the aims of this class is to help students begin to develop data analysis and programming skills that they can use as a part of carrying out research. But like learning any new skill, such as a new spoken language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying R code examples that you can find on the web etc.
+One of the aims of this class is to help students begin to develop data analysis and programming skills that they can use as a part of carrying out research. But like learning any new skill, such as a new spoken language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying Python and R code examples that you can find on the web etc.
 
 
 ---
@@ -89,14 +116,19 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 01/17/23**
   - Content & Discussion
 	* Course Overview
+		- What is data?
+		- What is data science?
   - Lab 
 	* Setting up JupyterHub
+		- Using Jupyter notebooks
+		- Using Markdown
+		- How assignments work
 
 #### Week 2: What is data and the DISW hierarchy
 * **Tue 01/24/23**
 
   - Content & Discussion
-	* Reading: DLF Chs. 1 & 2
+	* Reading: `DLF` Chs. 1 & 2
 
   - Lab Session
 
@@ -104,7 +136,7 @@ One of the aims of this class is to help students begin to develop data analysis
 
 * **Tue 01/31/23** 
   - Content & Discussion
-	* Reading: DLF Chs. 3 & 4
+	* Reading: `DLF` Chs. 3 & 4
 	
   - Lab Session
 
@@ -113,7 +145,7 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 02/07/23**
 
   - Content & Discussion
-	* Reading: DLF Ch. 5
+	* Reading: `DLF` Ch. 5
 	
   - Lab Session
 
@@ -130,14 +162,24 @@ One of the aims of this class is to help students begin to develop data analysis
 #### Week 6: 
 * **Tue 02/21/23**
 
-  * Reading: 
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
 
 
 #### Week 7: 
 
 * **Tue 02/28/23** 
 
-  * Reading: 
+
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
+
 
 
 #### SPRING BREAK  
@@ -150,9 +192,21 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 03/07/23** 
 
 
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
+
 #### Week 9: 
 
 * **Tue 03/14/23**
+
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
 
 
 #### Week 10:
@@ -160,9 +214,21 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 03/21/23** 
 
 
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
+
+
 #### Week 11: 
 
 * **Tue 03/28/23** 
+
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
 
 
 
@@ -171,18 +237,42 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 04/04/23**
 
 
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
+
 #### Week 13:
 
 * **Tue 04/11/23**
+
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
 
 #### Week 14:
 
 * **Tue 04/18/23**
 
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
+
 #### Week 15:
 
 * **Tue 04/25/23** 
 
-### Project Due Dates
+
+  - Content & Discussion
+	* Reading: 
+	
+  - Lab Session
+
+
 
   
