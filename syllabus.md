@@ -44,7 +44,7 @@ The course serves as an introduction to and overview of courses within the Data 
 * Quizes (20%)
   * Most weeks there will be a short quiz related to the lecture and readings for the week. The quiz will be available in Canvas.
 
-* Short paper [1500-2000] (20%)
+* Short paper [1500-2000 words] (20%)
   * A reflection/discussion paper focused on an data related issue. The paper should be written in Markdown.
   
 * Lab Assignments (30%)
