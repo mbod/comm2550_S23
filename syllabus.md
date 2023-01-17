@@ -41,14 +41,20 @@ The course serves as an introduction to and overview of courses within the Data 
 
 
 ## Assessment
-* Quizes (20%)
+* Quizes (15%)
   * Most weeks there will be a short quiz related to the lecture and readings for the week. The quiz will be available in Canvas.
 
 * Short paper [1500-2000 words] (20%)
   * A reflection/discussion paper focused on an data related issue. The paper should be written in Markdown.
   
-* Lab Assignments (30%)
+* Lab Assignments (25%)
   * Building on the material covered in the weekly lab sessions, which focus on gaining some practical skills working with in Python and R, these assignments will contain questions designed to help you practice. The assignments will be available and submitted within JupyterHub.
+
+* Quantified Self Assignment (10%)
+  * Throughout the semester you will complete a quick daily rating task to build up a personal data set of your mood and relevant events.
+  * You can choose to add in other data (e.g. location, movement or social media logs, etc).
+  * You will analyze the data to observe patterns and trends and interpret any associations (e.g. with days of the week, a particular event, etc.)
+  * You will then write a short blog post describing your findings.
 
 * Data project (30%)
   * The project should make use of the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor. 
