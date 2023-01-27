@@ -135,8 +135,21 @@ One of the aims of this class is to help students begin to develop data analysis
 
   - Content & Discussion
 	* Reading: `DLF` Chs. 1 & 2
+    * DIKW pyramid and systems of thinking
 
   - Lab Session
+    - Python Basics Part 1
+	  - Objects
+	  - Named pointers
+	  - Data types (`str`, `int` and `float` objects)
+	  - Lists
+		  - indexing
+		  - list specific functions
+			  - `count()`
+			  - `index()`
+
+* **Sat 01/28/23 11.59pm - Quiz 1 Due** - Submit in Canvas
+
 
 #### Week 3: Domains of data and Data typology
 
