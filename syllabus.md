@@ -153,18 +153,41 @@ One of the aims of this class is to help students begin to develop data analysis
 
 #### Week 3: Domains of data and Data typology
 
+* **Mon 01/30/23 11.59pm - Assignment 1 Due** - Submit in JupyterHub
+
 * **Tue 01/31/23** 
   - Content & Discussion
 	* Reading: `DLF` Chs. 3 & 4
+	* Domains of Data
+		- Private
+		- Public
+		- Personal
+	* Data measurement and levels
+		- Reliability and Validity
+		- NOIR typology for data
+			- Nominal
+			- Ordinal
+			- Interval
+			- Ratio
 	
   - Lab Session
+	- Python basics Part 2
+		- More on `list` objects
+		- Conditional constructs
+			- Tests and `if` constructs
+			- `if` and `else` 
+			- Walking through data using loops
+			- `for` construct
+
+
+* **Sat 02/04/23 11.59pm - Quiz 2 Due** - Submit in Canvas
 
 #### Week 4: Forms of Data Analysis
 
 * **Tue 02/07/23**
 
   - Content & Discussion
-	* Reading: `DLF` Ch. 5
+	* Readings: `DLF` Ch. 5; 
 	
   - Lab Session
 
