@@ -187,7 +187,10 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 02/07/23**
 
   - Content & Discussion
-	* Readings: `DLF` Ch. 5; 
+	* Readings: `DLF` Ch. 5; `LSD` Introduction & Ch. 1
+	* Types of data analysis
+	* Visualizing and discovering patterns in data
+	* Basic typology for visualizing data
 	
   - Lab Session
 
