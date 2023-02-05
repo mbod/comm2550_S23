@@ -44,13 +44,13 @@ The course serves as an introduction to and overview of courses within the Data 
 * Quizes (15%)
   * Most weeks there will be a short quiz related to the lecture and readings for the week. The quiz will be available in Canvas.
 
-* Short paper [1500-2000 words] (20%)
+* Short paper [1500-2000 words] (15%)
   * A reflection/discussion paper focused on an data related issue. The paper should be written in Markdown.
   
 * Lab Assignments (25%)
   * Building on the material covered in the weekly lab sessions, which focus on gaining some practical skills working with in Python and R, these assignments will contain questions designed to help you practice. The assignments will be available and submitted within JupyterHub.
 
-* Quantified Self Assignment (10%)
+* Quantified Self Assignment (15%)
   * Throughout the semester you will complete a quick daily rating task to build up a personal data set of your mood and relevant events.
   * You can choose to add in other data (e.g. location, movement or social media logs, etc).
   * You will analyze the data to observe patterns and trends and interpret any associations (e.g. with days of the week, a particular event, etc.)
@@ -182,18 +182,37 @@ One of the aims of this class is to help students begin to develop data analysis
 
 * **Sat 02/04/23 11.59pm - Quiz 2 Due** - Submit in Canvas
 
-#### Week 4: Forms of Data Analysis
+#### Week 4: Forms of Data Analysis and Visualization
 
 * **Tue 02/07/23**
 
   - Content & Discussion
 	* Readings: `DLF` Ch. 5; `LSD` Introduction & Ch. 1
 	* Types of data analysis
+		1. Descriptive
+		2. Inferential
+		3. Diagnostic
+		4. Predictive
+		5. Prescriptive
 	* Visualizing and discovering patterns in data
 	* Basic typology for visualizing data
 	
   - Lab Session
-
+	- Python basics Part 3
+		- Dictionaries (`dict` object)
+		- Data structures
+			- List-of-lists
+			- List-of-dictionaries
+			- JSON
+		- Working with tabular data
+		- Preview of `pandas` `DataFrame` object
+		- Plotting with
+			- `matplotlib`
+			- `seaborn`
+			- `plotly.express`
+			
+* **Fri 02/10/23 11.59pm - Assignment 2 Due** - Submit in JupyterHub			
+* **Sat 02/11/23 11.59pm - Quiz 3 Due** - Submit in Canvas
 
 #### Week 5: 
 
