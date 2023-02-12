@@ -204,24 +204,34 @@ One of the aims of this class is to help students begin to develop data analysis
 			- List-of-lists
 			- List-of-dictionaries
 			- JSON
-		- Working with tabular data
-		- Preview of `pandas` `DataFrame` object
-		- Plotting with
-			- `matplotlib`
-			- `seaborn`
-			- `plotly.express`
 			
-* **Fri 02/10/23 11.59pm - Assignment 2 Due** - Submit in JupyterHub			
-* **Sat 02/11/23 11.59pm - Quiz 3 Due** - Submit in Canvas
 
-#### Week 5: 
+#### Week 5: Representing and visualizing data
 
 * **Tue 02/14/23** 
 
   - Content & Discussion
-	* Reading: 
+	* Reading: `DLF` Ch. 6; `LSD` Ch. 2
+    1. Figures
+	2. Tables 
+	3. Statistics
+	4. Visualizations
+	5. Dashboards
+	6. Data stories
 	
   - Lab Session
+		- Working with tabular data
+		- Using `pandas` `DataFrame` object
+		- Plotting with
+			- `matplotlib`
+			- `seaborn`
+			- `plotly.express`
+  
+  
+* **Tue 02/14/23 11.59pm - Quiz 3 Due** - Submit in Canvas
+* **Wed 02/15/23 11.59pm - Assignment 2 Due** - Submit in JupyterHub			
+
+
 
 #### Week 6: 
 * **Tue 02/21/23**
