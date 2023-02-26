@@ -212,7 +212,7 @@ One of the aims of this class is to help students begin to develop data analysis
 
   - Content & Discussion
 	* Reading: `DLF` Ch. 6; `LSD` Ch. 2
-    1. Figures
+	1. Figures
 	2. Tables 
 	3. Statistics
 	4. Visualizations
@@ -233,26 +233,41 @@ One of the aims of this class is to help students begin to develop data analysis
 
 
 
-#### Week 6: 
+#### Week 6: Working with tables, steps in data exploration and comparisons
 * **Tue 02/21/23**
 
 
   - Content & Discussion
-	* Reading: 
+	* Reading: `DLF` Ch. 7; `LSD` Ch. 3
 	
   - Lab Session
+    - Using `pandas` for exploratory data analysis
+    - Working with a CSV file in `pandas`
+      - Loading data into a `DataFrame`
+      - Examining shape
+      	- ROWS - observation unit
+	- COLUMNS - variables
+      - Exploratory analysis of variables
+        - Creating summaries
+	   - Counts for categorical data
+	   - Summary statistics for continuous data
+        - Plots
+           - Bar charts for categorical data
+	   - Histograms for continuous data
+
+* **Tue 02/21/23 11.59pm - Quiz 4 Due** - Submit in Canvas
+* **Sub 02/26/23 11.59pm - Assignment 3 Due** - Submit in JupyterHub
 
 
-#### Week 7: 
+#### Week 7: Public data - working with Open Data
 
 * **Tue 02/28/23** 
 
-
-
   - Content & Discussion
-	* Reading: 
+ 	* Reading: `DLF` Ch. 8; `LSD` Ch. 4
 	
   - Lab Session
+
 
 
 
@@ -262,7 +277,7 @@ One of the aims of this class is to help students begin to develop data analysis
 
 
 #### Week 8: 
-
+     
 * **Tue 03/07/23** 
 
 
