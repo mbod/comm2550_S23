@@ -256,7 +256,7 @@ One of the aims of this class is to help students begin to develop data analysis
 	   - Histograms for continuous data
 
 * **Tue 02/21/23 11.59pm - Quiz 4 Due** - Submit in Canvas
-* **Sub 02/26/23 11.59pm - Assignment 3 Due** - Submit in JupyterHub
+* **Sun 02/26/23 11.59pm - Assignment 3 Due** - Submit in JupyterHub
 
 
 #### Week 7: Public data - working with Open Data
@@ -295,8 +295,15 @@ One of the aims of this class is to help students begin to develop data analysis
       - `datetime` index
       - temporal grouping and aggregation
       
+* **Fri 03/17/23 11.59pm - Quiz 5 Due** - Submit in Canvas
+
+
+
 
 #### Week 9: Measures of variation
+
+* **Mon 03/20/23 11.59pm - Assignment 5? Due** - Submit in JupyterHub
+
 
 * **Tue 03/14/23**
 
@@ -304,12 +311,12 @@ One of the aims of this class is to help students begin to develop data analysis
 	* Reading: `LSD` Ch.6
 
   - Lab Session
+    - Introduction to R using `tidyverse` and `ggplot`
 
 
 #### Week 10: Finding associations in data and introduction to modeling
 
 * **Tue 03/21/23** 
-
 
   - Content & Discussion
 	* Reading: `LSD` Ch.7
