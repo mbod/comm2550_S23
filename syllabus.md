@@ -264,75 +264,80 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 02/28/23** 
 
   - Content & Discussion
- 	* Reading: `DLF` Ch. 8; `LSD` Ch. 4
-	
+    * Reading: `DLF` Ch. 8; `LSD` Ch. 4
+    * More `oandas`
+    * Reshaping and merging data frames
+      - wide to long using `melt()`
+      - using `.merge()` and column columns
+
   - Lab Session
+    * Working with open data using `pandas`
 
-
+* **NO QUIZ THIS WEEK**
 
 
 #### SPRING BREAK  
 * 03/04/23-03/12/23
 
 
-
-#### Week 8: 
+#### Week 8: Examining change over time
      
 * **Tue 03/07/23** 
 
-
-
   - Content & Discussion
-	* Reading: 
-	
+	* Reading: `LSD` Ch.5
+    - Patterns in data over time
+      - Trends
+      - Cycles
+    	
   - Lab Session
+    - Working with temporal data in `pandas`
+      - `datetime` index
+      - temporal grouping and aggregation
+      
 
-#### Week 9: 
+#### Week 9: Measures of variation
 
 * **Tue 03/14/23**
 
-
   - Content & Discussion
-	* Reading: 
-	
+	* Reading: `LSD` Ch.6
+
   - Lab Session
 
 
-#### Week 10:
+#### Week 10: Finding associations in data and introduction to modeling
 
 * **Tue 03/21/23** 
 
 
   - Content & Discussion
-	* Reading: 
+	* Reading: `LSD` Ch.7
 	
   - Lab Session
 
 
-#### Week 11: 
+#### Week 11: Geographical data and mapping
 
 * **Tue 03/28/23** 
 
 
   - Content & Discussion
-	* Reading: 
+  	* Reading: `LSD` Ch.8
 	
   - Lab Session
 
 
-
-#### Week 12:  
+#### Week 12: Representing data as a network
 
 * **Tue 04/04/23**
-
-
 
   - Content & Discussion
 	* Reading: 
 	
   - Lab Session
 
-#### Week 13:
+#### Week 13: More on networks and network data analysis
 
 * **Tue 04/11/23**
 
@@ -342,25 +347,20 @@ One of the aims of this class is to help students begin to develop data analysis
 	
   - Lab Session
 
-#### Week 14:
+#### Week 14: Machine Learning and Artificial Intelligence
 
 * **Tue 04/18/23**
-
 
   - Content & Discussion
 	* Reading: 
 	
   - Lab Session
 
-#### Week 15:
+#### Week 15: Final Project Presentations
 
 * **Tue 04/25/23** 
 
 
-  - Content & Discussion
-	* Reading: 
-	
-  - Lab Session
 
 
 
