@@ -344,6 +344,9 @@ One of the aims of this class is to help students begin to develop data analysis
 	
   - Lab Session
 
+
+* **Sun 04/10/23** - Quantified Self Assignment Due @ 11.59pm (Submit through JupyterHub)
+
 #### Week 13: More on networks and network data analysis
 
 * **Tue 04/11/23**
@@ -363,12 +366,14 @@ One of the aims of this class is to help students begin to develop data analysis
 	
   - Lab Session
 
+* **Sun 04/23/23** Data Paper Due
+
 #### Week 15: Final Project Presentations
 
 * **Tue 04/25/23** 
 
 
-
+* **05/02/23** FINAL PROJECT DUE (TBC)
 
 
   
