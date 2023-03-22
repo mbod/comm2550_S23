@@ -282,7 +282,7 @@ One of the aims of this class is to help students begin to develop data analysis
 
 #### Week 8: Examining change over time
      
-* **Tue 03/07/23** 
+* **Tue 03/14/23** 
 
   - Content & Discussion
 	* Reading: `LSD` Ch.5
@@ -295,69 +295,56 @@ One of the aims of this class is to help students begin to develop data analysis
       - `datetime` index
       - temporal grouping and aggregation
       
-* **Fri 03/17/23 11.59pm - Quiz 5 Due** - Submit in Canvas
 
 
+#### Week 9: Privacy, Data Storytelling and Web Scraping
 
-
-#### Week 9: Measures of variation
-
-* **Mon 03/20/23 11.59pm - Assignment 5? Due** - Submit in JupyterHub
-
-
-* **Tue 03/14/23**
+* **Tue 03/21/23**
 
   - Content & Discussion
-	* Reading: `LSD` Ch.6
+    * Reading: `LSD` Ch.6
+    - Data story telling
+    - Examples of investigating data
+    - Privacy
+    - Example of web scraping to check data
 
+* **Tue 03/21/23 11.59pm - Quiz 5 Due** - Submit in Canvas
+
+
+#### Week 10: Finding associations in data and introduction to modeling 
+
+* **Mon 03/27/23 11.59pm - Assignment 4 Due** - Submit in JupyterHub
+
+* **Tue 03/28/23** 
+
+  - Content & Discussion
+	* Reading: `LSD` Ch.7 and tidy chapter
+	
   - Lab Session
     - Introduction to R using `tidyverse` and `ggplot`
 
 
-#### Week 10: Finding associations in data and introduction to modeling
-
-* **Tue 03/21/23** 
-
-  - Content & Discussion
-	* Reading: `LSD` Ch.7
-	
-  - Lab Session
-
-
-#### Week 11: Geographical data and mapping
-
-* **Tue 03/28/23** 
-
-
-  - Content & Discussion
-  	* Reading: `LSD` Ch.8
-	
-  - Lab Session
-
-
-#### Week 12: Representing data as a network
+#### Week 11: Geographical data and mapping & representing data as a network
 
 * **Tue 04/04/23**
 
   - Content & Discussion
-	* Reading: 
+	* Reading:  `LSD` Ch. 8
 	
   - Lab Session
 
+* **Sun 04/09/23** - Quantified Self Assignment Due at 11.59pm (Submit through JupyterHub)
 
-* **Sun 04/10/23** - Quantified Self Assignment Due @ 11.59pm (Submit through JupyterHub)
-
-#### Week 13: More on networks and network data analysis
+#### Week 12: More on networks and network data analysis
 
 * **Tue 04/11/23**
-
 
   - Content & Discussion
 	* Reading: 
 	
   - Lab Session
 
-#### Week 14: Machine Learning and Artificial Intelligence
+#### Week 13: Machine Learning and Artificial Intelligence
 
 * **Tue 04/18/23**
 
@@ -366,14 +353,14 @@ One of the aims of this class is to help students begin to develop data analysis
 	
   - Lab Session
 
-* **Sun 04/23/23** Data Paper Due
+* **Sun 04/23/23** Short Paper Due (Submit in Canvas)
 
-#### Week 15: Final Project Presentations
+#### Week 14: Final Project Presentations
 
 * **Tue 04/25/23** 
 
 
-* **05/02/23** FINAL PROJECT DUE (TBC)
+* **05/02/23** FINAL PROJECT DUE (TBC) * Submit in JupyterHub
 
 
   
