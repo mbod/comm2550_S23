@@ -311,9 +311,8 @@ One of the aims of this class is to help students begin to develop data analysis
 * **Tue 03/21/23 11.59pm - Quiz 5 Due** - Submit in Canvas
 
 
-#### Week 10: Finding associations in data and introduction to modeling 
+#### Week 10: Ways to use data in stories, geodata and mapping and R basics (Part 1) 
 
-* **Mon 03/27/23 11.59pm - Assignment 4 Due** - Submit in JupyterHub
 
 * **Tue 03/28/23** 
 
@@ -324,7 +323,8 @@ One of the aims of this class is to help students begin to develop data analysis
     - Introduction to R using `tidyverse` and `ggplot`
 
 
-#### Week 11: Geographical data and mapping & representing data as a network
+#### Week 11: Dr Jake Pearl (Guest Lecturer) & R basics (Part 2)
+* **Mon 03/27/23 11.59pm - Assignment 4 Due** - Submit in JupyterHub
 
 * **Tue 04/04/23**
 
