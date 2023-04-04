@@ -324,7 +324,6 @@ One of the aims of this class is to help students begin to develop data analysis
 
 
 #### Week 11: Dr Jake Pearl (Guest Lecturer) & R basics (Part 2)
-* **Mon 03/27/23 11.59pm - Assignment 4 Due** - Submit in JupyterHub
 
 * **Tue 04/04/23**
 
@@ -332,10 +331,11 @@ One of the aims of this class is to help students begin to develop data analysis
 	* Reading:  `LSD` Ch. 8
 	
   - Lab Session
+    - Working on Data projects
 
-* **Sun 04/09/23** - Quantified Self Assignment Due at 11.59pm (Submit through JupyterHub)
 
-#### Week 12: More on networks and network data analysis
+
+#### Week 12: Networks and network data analysis
 
 * **Tue 04/11/23**
 
@@ -344,9 +344,12 @@ One of the aims of this class is to help students begin to develop data analysis
 	
   - Lab Session
 
+* **Sun 04/16/23** - Quantified Self Assignment Due at 11.59pm (Submit through JupyterHub)
+
 #### Week 13: Machine Learning and Artificial Intelligence
 
 * **Tue 04/18/23**
+* **IMPORTANT: WE WILL MEET IN ASC500 FOR THIS CLASS SESSION**
 
   - Content & Discussion
 	* Reading: 
