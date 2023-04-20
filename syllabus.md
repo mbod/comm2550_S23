@@ -34,7 +34,7 @@ The course will:
 
 * Provide an introduction and overview of the key elements of applied data science, including the analysis of networks and machine learning (ML). 
 
-* Consider the practical and ethical challenges of 'big data', unbiquitous data tracking and the increasing use of algorithmic (ML) decision systems.
+* Consider the practical and ethical challenges of 'big data', ubiquitous data tracking and the increasing use of algorithmic (ML) decision systems.
 
 The course serves as an introduction to and overview of courses within the Data and Network Science concentration for the Communication major. No prior programming or data analysis experience is required.
 
@@ -344,7 +344,7 @@ One of the aims of this class is to help students begin to develop data analysis
 	
   - Lab Session
 
-* **Sun 04/16/23** - Quantified Self Assignment Due at 11.59pm (Submit through JupyterHub)
+
 
 #### Week 13: Machine Learning and Artificial Intelligence
 
@@ -356,14 +356,18 @@ One of the aims of this class is to help students begin to develop data analysis
 	
   - Lab Session
 
-* **Sun 04/23/23** Short Paper Due (Submit in Canvas)
+
+* **Sun 04/23/23** - Quantified Self Assignment Due at 11.59pm (Submit through JupyterHub)
+
 
 #### Week 14: Final Project Presentations
 
 * **Tue 04/25/23** 
 
+* **Wed 04/26/23** Short Paper Due at 11.59pm (Submit in Canvas)
 
-* **05/02/23** FINAL PROJECT DUE (TBC) * Submit in JupyterHub
+
+* **05/02/23** FINAL PROJECT DUE (Project folder in JupyterHub - Submit completion confirmation in Canvas)
 
 
   
