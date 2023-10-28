@@ -45,7 +45,7 @@ The course serves as an introduction to and overview of courses within the Data 
   * Most weeks there will be a short quiz related to the lecture and readings for the week. The quiz will be available in Canvas.
 
 * Short paper [1500-2000 words] (15%)
-  * A reflection/discussion paper focused on an data related issue. The paper should be written in Markdown.
+  * A reflection/discussion paper focused on an data related issue. 
   
 * Lab Assignments (25%)
   * Building on the material covered in the weekly lab sessions, which focus on gaining some practical skills working with in Python and R, these assignments will contain questions designed to help you practice. The assignments will be available and submitted within JupyterHub.
