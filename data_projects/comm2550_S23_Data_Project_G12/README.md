@@ -1,0 +1,5 @@
+## Intelligence & Availability for Adoption of Dog Breeds
+
+    My project focuses on the relationship between the intelligence of different dog breeds and how many listings there are for that particular breed on Petfinder. Petfinder is a platform for people to list and adopt pets. I use a dataset from Petfinder of their data from 2019 and a dataset from a study that determines the intelligence of different dog breeds based on how many repetitions are required to teach them a new trick or command. 
+    I focus primarily on the primary_breed column of the Petfinder dataset and the secondary_breed of the Petfinder dataset. These two rows indicate the breed of the dog listed on Petfinder. I add intelligence classifications in the form of new columns for each of these existing columns and make dataframes as needed in order to show the analyses of this information. 
+    In the end, I reflect on the analyses that I have done and draw conclusions based on these analyses. Finally, I compare these conclusions to my original hypothesis before applying the information that I have learned to my original question.

@@ -1,0 +1,4 @@
+## Data analysis notebooks for COMM2550 Data Project
+
+
+All of the data analysis was done in one notebook. I did not include all of the visuals that I created as I found that some were redundant or not as clear as other alternatives. The notebook first loads and cleans the data, making it much easier to work with as common data is retitled to have consistent naming. I also ensured that the object types were correct. I then proceeded to look at some basic relationships between just the crime and complaints. Further zooming in on this, I explored the correlation between abuse complaints and assaults specifically (as a proxy for violence) to attempt to answer my research question. Finally, I sought to try and find possible confounding, which I was able to find. Therefore, it is impossible to claim any type of causation in this work. 
